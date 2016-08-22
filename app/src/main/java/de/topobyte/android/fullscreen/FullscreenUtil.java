@@ -22,8 +22,6 @@ import android.content.SharedPreferences;
 import android.view.Window;
 import android.view.WindowManager;
 
-import de.topobyte.fullscreen.R;
-
 public class FullscreenUtil {
 
   public static void setupFullScreen(Context context, SharedPreferences preferences, Window window)

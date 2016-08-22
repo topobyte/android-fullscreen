@@ -18,6 +18,6 @@ You should have received a copy of the GNU Lesser General Public License
 along with fullscreen. If not, see <http://www.gnu.org/licenses/>.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="de.topobyte.fullscreen" >
+          package="de.topobyte.android.fullscreen">
 
 </manifest>
